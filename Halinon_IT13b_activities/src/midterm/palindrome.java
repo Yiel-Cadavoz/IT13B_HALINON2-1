@@ -2,13 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package prelim;
-import java.util.Scanner;    
+package midterm;
+import java.util.Scanner;
 /**
  *
  * @author User
  */
 public class palindrome {
+ 
       public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
@@ -29,4 +30,5 @@ public class palindrome {
       
         
     }
-}
+}   
+
